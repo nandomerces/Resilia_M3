@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'GameOfThrones';
-    src: url('/fonte/TrajanPro-Bold.otf') format('truetype');
+    src: url('./fonte/TrajanPro-Bold.otf') format('truetype');
 }
 
 html, body{
@@ -50,7 +50,7 @@ div#background{
     height: 450px;
     margin: 41px auto;
     /* background-color: brown; */
-    background-image: url(/Imagens/bg_got_1.png); 
+    background-image: url(./Imagens/bg_got_1.png); 
     background-size: 70%;
     background-repeat: no-repeat;
     position: block;
