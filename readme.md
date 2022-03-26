@@ -1,4 +1,6 @@
-# <img height="30" src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" />  Projeto final módulo 03 - Game of Thrones Database
+# <img height="30" src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" />  
+
+# Módulo 03 - Projeto Final - Game of Thrones Database
 
 <br>
 
@@ -9,10 +11,10 @@
 
 ## 🔖 Descrição:
 
-<p align="center" style="font-size: 16px">✨ Projeto de conclusão do Módulo 3 da <a href="https://www.resilia.com.br/">Resilia Educação</a> ✨</p>
-<p style="font-size: 14px">O projeto teve como objetivo a criação de um banco de dados MySQL para criar consultas e gráficos interpretativos sobre o tema. Para a análise de dados, foi utilizada a ferramenta Metabase.</p>
+<p style="font-size: 16px">Projeto de conclusão do Módulo 3 da <a href="https://www.resilia.com.br/">Resilia Educação</a></p>
+<p style="font-size: 14px">O projeto teve como objetivo a criação de um banco de dados MySQL para criar consultas e gráficos interpretativos sobre o tema. Para a análise de dados, foi utilizada a ferramenta Microsoft Power BI</p>
 <p style="font-size: 14px">Foi utilizado SCRUM como metodologia ágil para a organização do projeto, com o uso da ferramenta Trello.</p>
-<p style="font-size: 14px">Para a demonstração detalhada das perguntas, gráficos e análises, foi desenvolvido um site em HTML, CSS e JavaScript (ES6), cujo protótipo foi desenvolvido no Photoshop.</p>
+<p style="font-size: 14px">Para a demonstração detalhada das perguntas, gráficos e análises, foi desenvolvido um site em HTML, CSS e JavaScript, cujo protótipo foi desenvolvido no Photoshop.</p>
 
 <br>
 <hr/>
@@ -39,28 +41,12 @@
 ## 📉 Algumas análises:
 
 <br>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-
 <br>
 <hr/>
 
 ## 🛠️ Tecnologias e ferramentas utilizadas:
 
 <div align="center">
-<img style="">
-
-<img style="">
-
-<img style="">
-
-<img style="">
-
-<img style="">
-
-<img style="">
 </div>
 
 <br>
