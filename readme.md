@@ -1,4 +1,4 @@
-# <img height="30" src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" />  GOT Database
+# <img height="30" src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" />  Projeto final módulo 03 - Game of Thrones Database
 
 <br>
 
