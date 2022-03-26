@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="" />
+<img src="./Imagens/bg_got_1.png" />
 
 <br>
 <hr/>
