@@ -50,7 +50,7 @@ div#background{
     height: 450px;
     margin: 41px auto;
     /* background-color: brown; */
-    background-image: url(/Imagens/bg_got_1.png); 
+    background-image: url("./Imagens/bg_got_1.png"); 
     background-size: 70%;
     background-repeat: no-repeat;
     position: block;
