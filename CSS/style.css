@@ -68,7 +68,7 @@ main{
     /* background-color:darkblue; */
     height: 430px;
     margin-left: 0px;
-    background-image: url("/Imagens/bg_got_1.png");
+    background-image: url('../Imagens/bg_got_1.png');
     background-size: 70%;
     background-position: 0px;
     background-repeat: no-repeat;
