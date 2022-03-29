@@ -5,7 +5,7 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-<img src="assets/img/bg2.png" />
+<img src="assets/img/gotspinoff.jpg" />
 
 <br>
 
