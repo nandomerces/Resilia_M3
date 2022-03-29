@@ -19,7 +19,7 @@ body{
 }
 
 #home{
-    background-image: url(./assets/img/bg2.png);
+    background-image: url(../assets/img/bg2.png);
     background-size: 85%;
     background-position-x: center;
     background-position-y: 100px;
@@ -174,13 +174,71 @@ a:visited {
     -webkit-backdrop-filter: blur( 4px );
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );    
-    width: 100%;
+    width: 80%;
     height: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+}
+
+.img-quaternario-info{
+    width: 100%;
+    margin: auto;
 }
 
 
+#botao1{
+    display: none;
+}
+ 
+#botao2{
+    display: none;
+}
+
+#botao3{
+    display: none;
+}
+ 
+#botao4{
+    display: none;
+}
+
+#botao5{
+    display: none;
+}
+ 
+#botao6{
+    display: none;
+}
+
+#botao7{
+    display: none;
+}
+ 
+#botao8{
+    display: none;
+}
+
+#botao9{
+    display: none;
+}
+ 
+#botao10{
+    display: none;
+}
+
+#botao11{
+    display: none;
+}
+ 
+#botao12{
+    display: none;
+}
+
 #contato{
-    background-image: url(./assets/img/crown.jpeg);
+    background-image: url(../assets/img/crown.jpeg);
     background-size: 85%;
     background-position-x: center;
     background-position-y: 100px;
