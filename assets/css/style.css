@@ -19,7 +19,7 @@ body{
 }
 
 #home{
-    background-image: url('../assets/img/bg2.png');
+    background-image: url('.../assets/img/bg2.png');
     background-size: 85%;
     background-position-x: center;
     background-position-y: 100px;
