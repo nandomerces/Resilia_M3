@@ -273,6 +273,11 @@ a:visited {
     width: 25px;
 }
 
+.img-contatos{
+    width: 70%;
+    margin: 0 200px;
+}
+
 
 .rodape{
     display: flex;
