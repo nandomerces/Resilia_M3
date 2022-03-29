@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=FONTES%20AUXILIARES&message=HBO%20e%20IMDb&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=FONTES%20AUXILIARES&message=HBO%20,%20Emmy%20e%20IMDb&color=GREEN&style=for-the-badge"/>
 </p>
 
 <p align="center">
