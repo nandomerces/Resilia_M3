@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'GameOfThrones';
-    src: url('./font/TrajanPro-Bold.otf') format('truetype');
+    src: url('../font/TrajanPro-Bold.otf') format('truetype');
 }
 
 *{
