@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=FONTES%20AUXILIARES&message=HBO%20,%20Emmy%20e%20IMDb&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=FONTES%20AUXILIARES&message=HBO,%20EMMY%20e%20IMDb&color=GREEN&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=TRATAMENTO&message=MySQL%20E%20POWER%20BI&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=TRATAMENTO%20e%20LIMPEZA%20DOS%20DADOS&message=MySQL%20E%20POWER%20Query&color=GREEN&style=for-the-badge"/>
 </p>
 
 <hr/>
@@ -27,15 +27,22 @@
 ## 🔖 Descrição:
 
 <p style="font-size: 16px">Projeto de conclusão do Módulo 3 da <a href="https://www.resilia.com.br/">Resilia Educação</a></p>
-<p style="font-size: 14px">O projeto teve como objetivo a criação de um banco de dados MySQL para criar consultas e gráficos interpretativos sobre o tema. Para a análise de dados, foi utilizada a ferramenta Microsoft Power BI</p>
+<p style="font-size: 14px">O projeto teve como análise de banco de dados em CSV cruzando com informações do mercado para apresentar um estudo de viabilidade de produto de derivagem (spin-off) da série de televisão "Game of Thrones".</p>
+
+<p style="font-size: 14px"> Dados e informações utilizados no projeto: 
+<ul style="list-style: square;">
+    <li>Banco de dados principal composto de 3 tabelas: episódios, personagens e casas.
+    <li>Coleta de dados e informações sobre o mercado de spin-off por meio pesquisa no cenário do entretenimento.</li>
+    <li>Coleta de dados informações sobre os principais concorrentes (macros e micros) no mercado do spin-off.</li>
+    <li>Coleta de dados e informações sobre elementos que estão diretamente ligados à produção da série Game of Thrones</li>    
+</ul>
+
 <p style="font-size: 14px">Foi utilizado SCRUM como metodologia ágil para a organização do projeto, com o uso da ferramenta Trello.</p>
 <p style="font-size: 14px">Para a demonstração detalhada das perguntas, gráficos e análises, foi desenvolvido um site em HTML, CSS e JavaScript, cujo protótipo foi desenvolvido no Photoshop.</p>
-
-
 <br>
 <hr/>
 
-## 📋 Perguntas utilizadas:
+## 📋 Brainstorming e perguntas norteadoras:
 
 <ul style="list-style: square;">
     <li>O cálculo de tempo de duração dos episódios mostra se houve de fato uma redução de tempo de tela na narrativa nas duas últimas temporadas?</li>
@@ -55,7 +62,19 @@
 <hr/>
 
 ## 📉 Algumas análises:
+<img src="assets/img/game of thrones.png" />
 
+<img src="Power BI/Gráficos em jpg/Duração de cada temporada em episódios e minutos.jpg" />
+
+<img src="Power BI/Gráficos em jpg/10 personagens que mais aparecem_page-0001.jpg" />
+
+<img src="Power BI/Gráficos em jpg/Métricas das temporadas 7 e 8_page-0001.jpg" />
+
+<img src="Power BI/Gráficos em jpg/Ranking Top10 - Relação entre votos e outras métricas_page-0001.jpg" />
+
+<img src="Power BI/Gráficos em jpg/audiência 6t.jpg" />
+<img src="Power BI/Gráficos em jpg/dashboard ep9t6.jpg" />
+<img src="Power BI/Gráficos em jpg/dashboard Tyrion Lannister.jpg" />
 <br>
 <br>
 <hr/>
@@ -90,3 +109,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 SOFTWARE.
 
 <br>
+
