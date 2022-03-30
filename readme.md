@@ -62,7 +62,7 @@
 <hr/>
 
 ## 📉 Algumas análises:
-<img src="assets/img/game of thrones.png" />
+<img src="assets/img/game_of_thrones.png" />
 
 <img src="Power BI/Gráficos em jpg/Duração de cada temporada em episódios e minutos.jpg" />
 
@@ -74,7 +74,7 @@
 
 <img src="Power BI/Gráficos em jpg/audiência 6t.jpg" />
 <img src="Power BI/Gráficos em jpg/dashboard ep9t6.jpg" />
-<img src="Power BI/Gráficos em jpg/dashboard Tyrion Lannister.jpg" />
+<img src="Power BI/Gráficos em jpg/dashboard_Tyrion_Lannister.jpg" />
 <br>
 <br>
 <hr/>
@@ -82,6 +82,9 @@
 ## 🛠️ Tecnologias e ferramentas utilizadas:
 
 <div align="center">
+    
+   <img src="assets/img/tech.png" />
+
 </div>
 
 <br>
