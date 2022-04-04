@@ -3,7 +3,7 @@
 # Módulo 03 - Projeto Final - Game of Spin-Off
 <br>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 <img src="assets/img/gotspinoff.jpg" />
 
